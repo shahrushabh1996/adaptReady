@@ -1,0 +1,32 @@
+{
+  "name": "adaptReady",
+  "version": "1.0.0",
+  "description": "1. Clone this repository:",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.1",
+    "express-joi-validation": "^5.0.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "joi": "^17.12.1",
+    "node-cache": "^5.1.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrushabh1996/adaptReady.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrushabh1996/adaptReady/issues"
+  },
+  "homepage": "https://github.com/shahrushabh1996/adaptReady#readme"
+}

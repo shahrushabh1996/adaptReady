@@ -1,0 +1,11 @@
+{
+  "AUTH_USER_CREATED": "User Created Successfully",
+  "AUTH_USER_NOT_FOUND": "User Not Found",
+  "AUTH_INVALID_CREDENTIALS": "Invalid Credentials",
+  "AUTH_LOGGED_IN": "Login Successful",
+  "AUTH_LOGGED_OUT": "Log out Successful",
+  "AUTH_FAILED_USER_CREATEION": "Failed to Create User",
+  "AUTH_FAILED_LOGOUT": "Failed to logout",
+  "EMAIL_REGISTERED": "Email already registered",
+  "INVALID_EMAIL_ADDRESS": "Invalid email address"
+}

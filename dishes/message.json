@@ -1,0 +1,12 @@
+{
+  "DISH_CREATED": "Dish created successfully",
+  "DISH_NOT_FOUND": "Dish not found",
+  "DISH_UPDATED": "Dish updated successfully",
+  "DISH_DELETED": "Dish deleted successfully",
+  "DISH_FETCHED": "Dish fetched successfully",
+  "DISH_CREATION_FAILED": "Failed to Create Dish",
+  "DISH_UPDATION_FAILED": "Failed to Update Dish",
+  "DISH_DELETION_FAILED": "Failed to Delete Dish",
+  "DISH_FETCHING_FAILED": "Failed to Get Dishes",
+  "DISH_COUNTING_FAILED": "Failed to Count Dishes"
+}
